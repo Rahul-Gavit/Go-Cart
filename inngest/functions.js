@@ -1,5 +1,5 @@
-// src/inngest/functions.ts
 import { inngest } from "./client";
+import { prisma } from "@/lib/prisma";
 
 // Ingest function to save user data to a database
 
